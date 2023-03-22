@@ -1,7 +1,7 @@
 <h1 align="center"> QR code component </h1>
 <img src="design/Screenshot-desktop.png">
 
-<h3 align="center"><a href="https://rafaelestevan.github.io/qr-code-component/">Page</a> | <a href="https://www.frontendmentor.io/solutions/qr-code-component-g0YvCa7rB">Solution<a/></h3>
+<h3 align="center"><a href="https://rafaelestevan.github.io/qr-code-component/">Page</a> | <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub">Challenge<a/></h3>
 
 # Built with
 - Semantic HTML5 markup
